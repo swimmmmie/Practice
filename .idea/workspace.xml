@@ -14,6 +14,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -36,5 +37,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="713" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600856659163" />
+    <state x="753" y="214" key="SettingsEditor" timestamp="1600858737665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="214" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600858737665" />
   </component>
 </project>
